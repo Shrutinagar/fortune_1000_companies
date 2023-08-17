@@ -1,0 +1,1001 @@
+Company_Name,Type
+Walmart,Public
+Amazon,Public
+Apple,Public
+CVS Health,Public
+UnitedHealth Group,Public
+Exxon Mobil,Public
+Berkshire Hathaway,Public
+Alphabet,Public
+McKesson,Public
+AmerisourceBergen,Public
+Costco Wholesale,Public
+Cigna,Public
+AT&T,Public
+Microsoft,Public
+Cardinal Health,Public
+Chevron,Public
+Home Depot,Public
+Walgreens Boots Alliance,Public
+Marathon Petroleum,Public
+Anthem,Public
+Kroger,Public
+Ford Motor,Public
+Verizon Communications,Public
+JPMorgan Chase,Public
+General Motors,Public
+Centene,Public
+Meta Platforms,Public
+Comcast,Public
+Phillips 66,Public
+Valero Energy,Public
+Dell Technologies,Public
+Target,Public
+Fannie Mae,Public
+UPS,Public
+Lowe's,Public
+Bank of America,Public
+Johnson & Johnson,Public
+Archer Daniels Midland,Public
+FedEx,Public
+Humana,Public
+Wells Fargo,Public
+State Farm Insurance,Public
+Pfizer,Public
+Citigroup,Public
+PepsiCo,Public
+Intel,Public
+Procter & Gamble,Public
+General Electric,Public
+IBM,Public
+MetLife,Public
+Prudential Financial,Public
+Albertsons,Public
+Walt Disney,Public
+Energy Transfer,Public
+Lockheed Martin,Public
+Freddie Mac,Public
+Goldman Sachs Group,Public
+Raytheon Technologies,Public
+HP,Public
+Boeing,Public
+Morgan Stanley,Public
+HCA Healthcare,Public
+AbbVie,Public
+Dow,Public
+Tesla,Public
+Allstate,Public
+AIG,Public
+Best Buy,Public
+Charter Communications,Public
+Sysco,Public
+Merck,Public
+New York Life Insurance,Private
+Caterpillar,Public
+Cisco Systems,Public
+TJX,Public
+Publix Super Markets,Private
+ConocoPhillips,Public
+Liberty Mutual Insurance Group,Private
+Progressive,Public
+Nationwide,Private
+Tyson Foods,Public
+Bristol-Myers Squibb,Public
+Nike,Public
+Deere,Public
+American Express,Public
+Abbott Laboratories,Public
+StoneX Group,Public
+Plains GP Holdings,Public
+Enterprise Products Partners,Public
+TIAA,Private
+Oracle,Public
+Thermo Fisher Scientific,Public
+Coca-Cola,Public
+General Dynamics,Public
+CHS,Public
+USAA,Private
+Northwestern Mutual,Private
+Nucor,Public
+Exelon,Public
+Massachusetts Mutual Life Insurance,Private
+Northrop Grumman,Public
+3M,Public
+Travelers,Public
+Arrow Electronics,Public
+Honeywell International,Public
+Dollar General,Public
+Qualcomm,Public
+Capital One Financial,Public
+TD Synnex,Public
+Philip Morris International,Public
+World Fuel Services,Public
+Performance Food Group,Public
+Delta Air Lines,Public
+American Airlines Group,Public
+Netflix,Public
+Paramount Global,Public
+US Foods Holding,Public
+Danaher,Public
+Jabil,Public
+Starbucks,Public
+Mondelez International,Public
+Eli Lilly,Public
+Hewlett Packard Enterprise,Public
+D.R. Horton,Public
+Molina Healthcare,Public
+CBRE Group,Public
+Micron Technology,Public
+Broadcom,Public
+Gilead Sciences,Public
+PBF Energy,Public
+Lennar,Public
+United Natural Foods,Public
+NRG Energy,Public
+Nvidia,Public
+Occidental Petroleum,Public
+Salesforce,Public
+Dollar Tree,Public
+KKR,Public
+Kraft Heinz,Public
+Amgen,Public
+AutoNation,Public
+Penske Automotive Group,Public
+PayPal Holdings,Public
+Macy's,Public
+Duke Energy,Public
+United Airlines Holdings,Public
+Visa,Public
+Rite Aid,Public
+Cummins,Public
+U.S. Bancorp,Public
+Paccar,Public
+McDonald's,Public
+Southern,Public
+C.H. Robinson Worldwide,Public
+Truist Financial,Public
+Applied Materials,Public
+Freeport-McMoRan,Public
+Lithia Motors,Public
+Blackstone,Public
+Hartford Financial Services Group,Public
+Aflac,Public
+Whirlpool,Public
+Union Pacific,Public
+International Paper,Public
+Altria Group,Public
+CDW,Public
+ManpowerGroup,Public
+PG&E,Public
+Carrier Global,Public
+Baker Hughes,Public
+Cleveland-Cliffs,Public
+United States Steel,Public
+Becton Dickinson,Public
+CarMax,Public
+Sherwin-Williams,Public
+Builders FirstSource,Public
+Marsh & McLennan,Public
+PNC Financial Services Group,Public
+Lumen Technologies,Public
+Avnet,Public
+Tenet Healthcare,Public
+Kimberly-Clark,Public
+Kohl's,Public
+BlackRock,Public
+Jones Lang LaSalle,Public
+Lear,Public
+Lincoln National,Public
+Charles Schwab,Public
+Ross Stores,Public
+Mastercard,Public
+Genuine Parts,Public
+WestRock,Public
+EOG Resources,Public
+Cognizant Technology Solutions,Public
+Moderna,Public
+Steel Dynamics,Public
+HF Sinclair,Private
+Texas Instruments,Public
+Emerson Electric,Public
+WESCO International,Public
+General Mills,Public
+Tenneco,Public
+Waste Management,Public
+Viatris,Public
+DISH Network,Public
+L3Harris Technologies,Public
+DXC Technology,Public
+Block,Public
+Goodyear Tire & Rubber,Public
+Uber Technologies,Public
+Colgate-Palmolive,Public
+Stanley Black & Decker,Public
+DuPont,Public
+Stryker,Public
+NextEra Energy,Public
+Targa Resources,Public
+Western Digital,Public
+PPG Industries,Public
+American Electric Power,Public
+Gap,Public
+BJ's Wholesale Club,Public
+Reinsurance Group of America,Public
+Kinder Morgan,Public
+Oneok,Public
+Expeditors Intl. of Washington,Public
+Advanced Micro Devices,Public
+Fiserv,Public
+Estée Lauder,Public
+Bank of New York Mellon,Public
+Laboratory Corp. of America,Public
+Regeneron Pharmaceuticals,Public
+Land O'Lakes,Public
+Cheniere Energy,Public
+Southwest Airlines,Public
+Adobe,Public
+Synchrony Financial,Public
+Corteva,Public
+Fidelity National Financial,Public
+DTE Energy,Public
+Murphy USA,Public
+Halliburton,Public
+Automatic Data Processing,Public
+Edison International,Public
+BorgWarner,Public
+Nordstrom,Public
+Loews,Public
+Guardian Life Ins. Co. of America,Public
+Pioneer Natural Resources,Public
+AutoZone,Public
+Lam Research,Public
+American Family Insurance Group,Private
+Illinois Tool Works,Public
+Parker-Hannifin,Public
+Otis Worldwide,Public
+Omnicom Group,Public
+Principal Financial,Public
+Dominion Energy,Public
+Kellogg,Public
+Fluor,Public
+AECOM,Public
+Reliance Steel & Aluminum,Public
+Jacobs Engineering Group,Public
+Corning,Public
+Farmers Insurance Exchange,Public
+Qurate Retail,Public
+Pacific Life,Public
+PulteGroup,Public
+Fidelity National Information Services,Public
+IQVIA Holdings,Public
+Marriott International,Public
+Berry Global Group,Public
+Ball,Public
+Group 1 Automotive,Public
+Leidos Holdings,Public
+Wayfair,Public
+Consolidated Edison,Public
+Ameriprise Financial,Public
+Xcel Energy,Public
+O'Reilly Automotive,Public
+Global Partners,Public
+Discover Financial Services,Public
+Rocket Companies,Public
+LKQ,Public
+W.W. Grainger,Public
+Quanta Services,Public
+Crown Holdings,Public
+Fox,Public
+Sempra,Public
+Markel,Public
+Carvana,Public
+XPO Logistics,Public
+Baxter International,Public
+Ecolab,Public
+Tractor Supply,Public
+Andersons,Public
+Keurig Dr Pepper,Public
+Universal Health Services,Public
+CSX,Public
+Henry Schein,Public
+Sonic Automotive,Public
+eBay,Public
+Textron,Public
+Jones Financial (Edward Jones),Private
+Community Health Systems,Public
+Mosaic,Public
+Thor Industries,Public
+Dick's Sporting Goods,Public
+Newmont,Public
+Devon Energy,Public
+Warner Bros. Discovery,Public
+J.B. Hunt Transport Services,Public
+Alcoa,Public
+Peter Kiewit Sons',Private
+Aramark,Public
+Vistra,Public
+State Street,Public
+Unum Group,Public
+Alleghany,Public
+Boston Scientific,Public
+Westlake,Public
+Entergy,Public
+International Flavors & Fragrances,Public
+DaVita,Public
+Mutual of Omaha Insurance,Private
+Assurant,Public
+Liberty Media,Public
+Hormel Foods,Public
+Icahn Enterprises,Public
+Republic Services,Public
+Mohawk Industries,Public
+Conagra Brands,Public
+Norfolk Southern,Public
+AES,Public
+AGCO,Public
+Caesars Entertainment,Public
+Equitable Holdings,Public
+Advance Auto Parts,Public
+Biogen,Public
+Auto-Owners Insurance,Private
+Booking Holdings,Public
+Amphenol,Public
+Quest Diagnostics,Public
+FirstEnergy,Public
+DCP Midstream,Public
+Ally Financial,Public
+Delek US Holdings,Public
+Williams,Public
+Newell Brands,Public
+Eastman Chemical,Public
+Air Products & Chemicals,Public
+Thrivent Financial for Lutherans,Private
+Molson Coors Beverage,Public
+Interpublic Group,Public
+Weyerhaeuser,Public
+Altice USA,Public
+Raymond James Financial,Public
+EMCOR Group,Public
+Eversource Energy,Public
+Yum China Holdings,Public
+Asbury Automotive Group,Public
+Owens & Minor,Public
+Public Service Enterprise Group,Public
+United Rentals,Public
+MGM Resorts International,Public
+Ryder System,Public
+Intuit,Public
+Cincinnati Financial,Public
+Erie Insurance Group,Private
+Univar Solutions,Public
+Huntington Ingalls Industries,Public
+W.R. Berkley,Public
+Western & Southern Financial Group,Private
+Insight Enterprises,Public
+News Corp.,Public
+American Tower,Public
+Old Republic International,Public
+Burlington Stores,Public
+Avis Budget Group,Public
+ODP,Public
+VF,Public
+Bed Bath & Beyond,Public
+Seaboard,Public
+First American Financial,Public
+Intercontinental Exchange,Public
+PVH,Public
+Apollo Global Management,Public
+Jefferies Financial Group,Public
+Hershey,Public
+NVR,Public
+Foot Locker,Public
+Dana,Public
+SpartanNash,Public
+Olin,Public
+Chewy,Public
+Jackson Financial,Private
+Activision Blizzard,Public
+Toll Brothers,Public
+Carlyle Group,Public
+Graybar Electric,Private
+Ovintiv,Public
+UFP Industries,Public
+Ulta Beauty,Public
+Constellation Brands,Public
+Expedia Group,Public
+CommScope Holding,Public
+Celanese,Public
+Global Payments,Public
+Owens Corning,Public
+Campbell Soup,Public
+Huntsman,Public
+Franklin Resources,Public
+Avery Dennison,Public
+Masco,Public
+CenterPoint Energy,Public
+Fifth Third Bancorp,Public
+WEC Energy Group,Public
+S&P Global,Public
+FM Global,Public
+Polaris,Public
+Williams-Sonoma,Public
+Autoliv,Public
+Arthur J. Gallagher,Public
+Motorola Solutions,Public
+Zillow Group,Public
+Opendoor Technologies,Public
+J.M. Smucker,Public
+Realogy Holdings,Public
+Oshkosh,Public
+MasTec,Public
+GXO Logistics,Public
+APA,Public
+Boise Cascade,Public
+Dover,Public
+Genworth Financial,Public
+Bath & Body Works,Public
+Booz Allen Hamilton Holding,Public
+Coinbase Global,Public
+Zimmer Biomet Holdings,Public
+Westinghouse Air Brake Technologies,Public
+Zoetis,Public
+Packaging Corp. of America,Public
+LPL Financial Holdings,Public
+T. Rowe Price,Public
+Fortune Brands Home & Security,Public
+Casey's General Stores,Public
+A-Mark Precious Metals,Public
+Hess,Public
+Vertex Pharmaceuticals,Public
+KeyCorp,Public
+Chipotle Mexican Grill,Public
+CMS Energy,Public
+Arconic,Public
+Taylor Morrison Home,Public
+American Financial Group,Public
+UGI,Public
+Science Applications International,Public
+Avantor,Public
+Hanesbrands,Public
+Clorox,Public
+KBR,Public
+TravelCenters of America,Public
+Hertz Global Holdings,Public
+Analog Devices,Public
+Securian Financial Group,Public
+Darden Restaurants,Public
+Graphic Packaging Holding,Public
+NCR,Public
+Brighthouse Financial,Public
+PPL,Public
+Cintas,Public
+Xerox Holdings,Public
+Rockwell Automation,Public
+Citizens Financial Group,Public
+KLA,Public
+Camping World Holdings,Public
+Ingredion,Public
+Veritiv,Public
+Beacon Roofing Supply,Public
+Diamondback Energy,Public
+Victoria's Secret,Public
+Academy Sports and Outdoors,Public
+Sanmina,Public
+ON Semiconductor,Public
+Commercial Metals,Public
+EnLink Midstream,Public
+Southwestern Energy,Public
+Equinix,Public
+Dillard's,Public
+Regions Financial,Public
+Yum Brands,Public
+Landstar System,Public
+CF Industries Holdings,Public
+Northern Trust,Public
+Robert Half International,Public
+Compass,Public
+Hasbro,Public
+Roper Technologies,Public
+ARKO,Public
+Frontier Communications,Public
+Ameren,Public
+O-I Glass,Public
+Chemours,Public
+Crown Castle International,Public
+Agilent Technologies,Public
+McCormick,Public
+Skechers U.S.A.,Public
+Watsco,Public
+Live Nation Entertainment,Public
+Lululemon athletica,Public
+ABM Industries,Public
+Post Holdings,Public
+Moody's,Public
+Select Medical Holdings,Public
+Alaska Air Group,Public
+Big Lots,Public
+Amkor Technology,Public
+Sinclair Broadcast Group,Public
+RPM International,Public
+M&T Bank,Public
+Sprouts Farmers Market,Public
+Huntington Bancshares,Public
+CACI International,Public
+JetBlue Airways,Public
+SVB Financial Group,Public
+Fastenal,Public
+GameStop,Public
+Knight-Swift Transportation Holdings,Public
+Airbnb,Public
+Patterson,Public
+Penn National Gaming,Public
+ServiceNow,Public
+Nasdaq,Public
+Brunswick,Public
+Resideo Technologies,Public
+Chesapeake Energy,Public
+Petco Health and Wellness,Public
+Kemper,Public
+Hilton Worldwide Holdings,Public
+Cerner,Public
+Levi Strauss,Public
+Tapestry,Public
+NetApp,Public
+KB Home,Public
+Continental Resources,Public
+Intuitive Surgical,Public
+Under Armour,Public
+MDU Resources Group,Public
+Silgan Holdings,Public
+Ryerson Holding,Public
+Ingersoll Rand,Public
+Hologic,Public
+Electronic Arts,Public
+Zebra Technologies,Public
+Coty,Public
+Schneider National,Public
+Sonoco Products,Public
+Concentrix,Private
+Evergy,Public
+Cornerstone Building Brands,Public
+Coca-Cola Consolidated,Public
+Greif,Public
+Vulcan Materials,Public
+Ametek,Public
+Monster Beverage,Public
+Sealed Air,Public
+NOV,Public
+Las Vegas Sands,Public
+Martin Marietta Materials,Public
+Marathon Oil,Public
+Mattel,Public
+Microchip Technology,Public
+Harley-Davidson,Public
+Telephone & Data Systems,Public
+ADT,Public
+First Republic Bank,Public
+Warner Music Group,Public
+Pool,Public
+Old Dominion Freight Line,Public
+Fortive,Public
+MDC Holdings,Public
+NGL Energy Partners,Public
+Edwards Lifesciences,Public
+Hanover Insurance Group,Public
+Syneos Health,Public
+Xylem,Public
+Church & Dwight,Public
+American Axle & Manufacturing,Public
+Meritage Homes,Public
+Workday,Public
+Rush Enterprises,Public
+Yellow,Public
+Encompass Health,Public
+Simon Property Group,Public
+Globe Life,Public
+Skyworks Solutions,Public
+Endeavor Group Holdings,Public
+Twitter,Public
+Leggett & Platt,Public
+Western Union,Public
+PerkinElmer,Public
+SS&C Technologies Holdings,Public
+CUNA Mutual Group,Private
+FMC,Public
+Carlisle,Public
+American Eagle Outfitters,Public
+Core & Main,Public
+Vertiv Holdings,Public
+Broadridge Financial Solutions,Public
+Ingles Markets,Public
+TPG,Private
+Insperity,Public
+Howmet Aerospace,Public
+R.R. Donnelley & Sons,Public
+Keysight Technologies,Public
+Tempur Sealy International,Public
+Scotts Miracle-Gro,Public
+Equifax,Public
+Kelly Services,Public
+NiSource,Public
+OneMain Holdings,Public
+DoorDash,Public
+Avient,Public
+Sanderson Farms,Public
+TransDigm Group,Public
+Stifel Financial,Public
+JELD-WEN Holding,Public
+Ares Management,Public
+Elanco Animal Health,Public
+Prologis,Public
+Welltower,Public
+Darling Ingredients,Public
+Juniper Networks,Public
+Gartner,Public
+Par Pacific Holdings,Public
+Hubbell,Public
+CME Group,Public
+Nexstar Media Group,Public
+Tutor Perini,Public
+Antero Resources,Public
+Teledyne Technologies,Public
+Snap-on,Public
+Rent-A-Center,Public
+Covetrus,Public
+Crestwood Equity Partners,Public
+Louisiana-Pacific,Public
+Urban Outfitters,Public
+Penn Mutual Life Insurance,Private
+Amerco,Public
+TriNet Group,Public
+Sentry Insurance Group,Private
+Illumina,Public
+Iron Mountain,Public
+LCI Industries,Public
+Marvell Technology,Public
+PennyMac Financial Services,Public
+Digital Realty Trust,Public
+TreeHouse Foods,Public
+Ralph Lauren,Public
+Mattress Firm Group,Public
+American National Group,Public
+Autodesk,Public
+Domino's Pizza,Public
+ASGN,Public
+Flowers Foods,Public
+BlueLinx Holdings,Public
+Palo Alto Networks,Public
+Maximus,Public
+Dentsply Sirona,Public
+Hub Group,Public
+Voya Financial,Public
+Bread Financial Holdings,Private
+Weis Markets,Public
+Century Communities,Public
+Synopsys,Public
+Brink's,Public
+Lennox International,Public
+Service Corp. International,Public
+Conduent,Public
+Timken,Public
+Domtar,Public
+Bloomin' Brands,Public
+CNO Financial Group,Public
+Snap,Public
+Zoom Video Communications,Public
+Patrick Industries,Public
+Paychex,Public
+Atlas Air Worldwide Holdings,Public
+Bright Health Group,Private
+Peloton Interactive,Public
+Country Financial,Private
+Qorvo,Public
+Catalent,Public
+Mercury General,Public
+AMN Healthcare Services,Public
+Tri Pointe Homes,Public
+ArcBest,Public
+Toro,Public
+Spirit AeroSystems Holdings,Public
+Align Technology,Public
+loanDepot,Private
+APi Group,Private
+American Water Works,Public
+Matson,Public
+Diebold Nixdorf,Public
+Marriott Vacations Worldwide,Public
+Terex,Public
+Sally Beauty Holdings,Public
+Enovis,Private
+IAC/InterActiveCorp,Public
+Meritor,Public
+Ventas,Public
+GoDaddy,Public
+Regal Rexnord,Public
+Puget Energy,Public
+Clean Harbors,Public
+Pinnacle West Capital,Public
+eXp World Holdings,Public
+Mueller Industries,Public
+Wynn Resorts,Public
+RH,Public
+EPAM Systems,Public
+M/I Homes,Public
+Generac Holdings,Public
+Mettler-Toledo International,Public
+Abercrombie & Fitch,Public
+Teradyne,Public
+American Equity Investment Life Holding,Public
+Southwest Gas Holdings,Public
+Pitney Bowes,Public
+Lamb Weston Holdings,Public
+Alliant Energy,Public
+Resolute Forest Products,Public
+Parsons,Public
+Trimble,Public
+OGE Energy,Public
+Garrett Motion,Public
+Winnebago Industries,Public
+Ciena,Public
+PriceSmart,Public
+Advantage Solutions,Private
+H&R Block,Public
+iHeartMedia,Public
+Super Micro Computer,Public
+Flowserve,Public
+Charles River Laboratories International,Public
+A.O. Smith,Public
+New Residential Investment,Public
+Medical Mutual of Ohio,Private
+Granite Construction,Public
+Valmont Industries,Public
+Sprague Resources,Public
+Primoris Services,Public
+Cboe Global Markets,Public
+Carter's,Public
+TopBuild,Public
+SiteOne Landscape Supply,Public
+Texas Roadhouse,Public
+Akamai Technologies,Public
+Acuity Brands,Public
+Brown-Forman,Public
+Navient,Public
+Coterra Energy,Private
+Option Care Health,Public
+Floor & Decor Holdings,Public
+Public Storage,Public
+Cabot,Public
+Crane Holdings,Public
+Atmos Energy,Public
+Selective Insurance Group,Public
+Take-Two Interactive Software,Public
+Boyd Gaming,Public
+Plexus,Public
+ScanSource,Public
+Franchise Group,Public
+NLV Financial,Private
+CrossAmerica Partners,Public
+Mr. Cooper Group,Public
+Fortinet,Public
+Brinker International,Public
+Albemarle,Public
+Peabody Energy,Public
+Light & Wonder,Private
+Evercore,Public
+Stewart Information Services,Public
+Central Garden & Pet,Public
+GMS,Public
+H.B. Fuller,Public
+Middleby,Public
+Renewable Energy Group,Public
+MSC Industrial Direct,Public
+Vishay Intertechnology,Public
+Applied Industrial Technologies,Public
+Lincoln Electric Holdings,Public
+First Horizon,Public
+Spirit Airlines,Public
+AptarGroup,Public
+Citrix Systems,Public
+IDEXX Laboratories,Public
+Tetra Tech,Public
+Lyft,Public
+Gannett,Public
+ResMed,Public
+Designer Brands,Public
+Graham Holdings,Public
+Vroom,Public
+Worthington Industries,Public
+Calumet Specialty Products Partners,Public
+Xilinx,Public
+TransUnion,Public
+Travel + Leisure,Public
+Callaway Golf,Public
+Dycom Industries,Public
+Columbia Sportswear,Public
+II-VI,Public
+Change Healthcare,Public
+Grocery Outlet Holding,Public
+AMC Networks,Public
+Hyster-Yale Materials Handling,Public
+ChampionX,Public
+Comfort Systems USA,Public
+EQT,Public
+Brown & Brown,Public
+LGI Homes,Public
+Hyatt Hotels,Public
+Comerica,Public
+Energizer Holdings,Public
+Hill-Rom Holdings,Public
+Rackspace Technology,Public
+Verisk Analytics,Public
+Spectrum Brands Holdings,Public
+Euronet Worldwide,Public
+TEGNA,Public
+Vontier,Public
+Cadence Design Systems,Public
+Incyte,Public
+Match Group,Public
+Valvoline,Public
+EnerSys,Public
+Avaya Holdings,Public
+UWM Holdings,Public
+Zions Bancorp.,Public
+Quad/Graphics,Public
+MKS Instruments,Public
+Arista Networks,Public
+Interactive Brokers Group,Public
+Range Resources,Public
+Atkore,Public
+Cheesecake Factory,Public
+First Solar,Public
+Bio-Rad Laboratories,Public
+Cooper Cos.,Public
+Envista Holdings,Public
+Alight,Private
+Newmark Group,Public
+PC Connection,Public
+Host Hotels & Resorts,Public
+Boston Properties,Public
+Western Midstream Partners,Public
+Magellan Midstream Partners,Public
+Hillenbrand,Public
+Donaldson,Public
+Moog,Public
+Hawaiian Electric Industries,Public
+Five Below,Public
+Twilio,Public
+Univision Communciations,Private
+Annaly Capital Management,Public
+Fleetcor Technologies,Public
+West Pharmaceutical Services,Public
+Green Plains,Public
+Cracker Barrel Old Country Store,Public
+Virtu Financial,Public
+Teleflex,Public
+Zynga,Public
+Allegheny Technologies,Public
+AppLovin,Private
+Waters,Public
+Mutual of America Life Insurance,Private
+Hovnanian Enterprises,Public
+Amica Mutual Insurance,Private
+Caleres,Public
+FTI Consulting,Public
+Overstock.com,Public
+Visteon,Public
+G-III Apparel Group,Public
+ITT,Public
+IDEX,Public
+Popular,Public
+Roku,Public
+Schnitzer Steel Industries,Public
+Brookdale Senior Living,Public
+Werner Enterprises,Public
+Americold Realty Trust,Public
+SkyWest,Public
+Primerica,Public
+McAfee,Public
+Nu Skin Enterprises,Public
+Copart,Public
+PROG Holdings,Public
+Splunk,Public
+MRC Global,Public
+Stericycle,Public
+Maxim Integrated Products,Public
+Ensign Group,Public
+SM Energy,Public
+Kaiser Aluminum,Public
+Federated Mutual Insurance,Private
+F5,Public
+Steelcase,Public
+Encore Wire,Public
+Guess,Public
+Playtika Holding,Public
+Pinterest,Public
+WeWork,Public
+ManTech International,Public
+BrightView Holdings,Public
+NortonLifeLock,Public
+Deckers Outdoor,Public
+Griffon,Public
+AMC Entertainment Holdings,Public
+Curtiss-Wright,Public
+MYR Group,Public
+Kontoor Brands,Public
+Liberty Energy,Private
+Knights of Columbus,Private
+AdaptHealth,Public
+MillerKnoll,Private
+Equity Residential,Public
+DexCom,Public
+Rollins,Public
+Genesco,Public
+Bruker,Public
+Joann,Public
+Wolverine World Wide,Public
+Gray Television,Public
+Affiliated Managers Group,Public
+Summit Materials,Public
+SLM,Public
+Belden,Public
+Allison Transmission Holdings,Public
+Element Solutions,Public
+Portland General Electric,Public
+REV Group,Public
+Acadia Healthcare,Public
+Alexandria Real Estate Equities,Public
+Nordson,Public
+NewMarket,Public
+Ohio National Mutual,Private
+Stepan,Public
+Valhi,Public
+Hilton Grand Vacations,Public
+Cooper-Standard Holdings,Public
+Etsy,Public
+Crocs,Public
+Olympic Steel,Public
+Signature Bank,Public
+SBA Communications,Public
+Murphy Oil,Public
+Entegris,Public
+AvalonBay Communities,Public
+Saia,Public
+E.W. Scripps,Public
+TTEC Holdings,Public
+Sun Communities,Public
+Alpha Metallurgical Resources,Public
+GEO Group,Public
+Viasat,Public
+Benchmark Electronics,Public
+Kar Auction Services,Public
+TTM Technologies,Public
+Kirby,Public
+Woodward,Public
+Clear Channel Outdoor Holdings,Public
+Spire,Public
+Vista Outdoor,Public
+Surgery Partners,Public
+LHC Group,Public
+Amedisys,Public
+Century Aluminum,Public
+Arch Resources,Public
+Aerojet Rocketdyne Holdings,Public
+Sleep Number,Public
+HNI,Public
+Pure Storage,Public
+TrueBlue,Public
+Party City Holdco,Public
+Dun & Bradstreet Holdings,Public
+Dropbox,Public
+New Jersey Resources,Public
+Acushnet Holdings,Public
+Harsco,Public
+Beazer Homes USA,Public
+Chemed,Public
+Genesis Energy,Public
+BWX Technologies,Public
+Vizio Holding,Public
+1-800-Flowers.com,Public
+Cowen,Public
+Ashland Global Holdings,Public
+DocuSign,Public
