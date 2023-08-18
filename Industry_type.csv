@@ -1,0 +1,1001 @@
+Company_Name,Industry_Type
+Walmart,Retail
+Amazon,Retail
+Apple,Technology
+CVS Health,Healthcare
+UnitedHealth Group,Healthcare
+Exxon Mobil,Energy
+Berkshire Hathaway,Conglomerate
+Alphabet,Technology
+McKesson,Healthcare
+AmerisourceBergen,Healthcare
+Costco Wholesale,Retail
+Cigna,Healthcare
+AT&T,Telecommunications
+Microsoft,Technology
+Cardinal Health,Healthcare
+Chevron,Energy
+Home Depot,Retail
+Walgreens Boots Alliance,Pharmaceutical
+Marathon Petroleum,Energy
+Anthem,Healthcare
+Kroger,Retail
+Ford Motor,Automotive
+Verizon Communications,Telecommunications
+JPMorgan Chase,Financial Services
+General Motors,Automotive
+Centene,Healthcare
+Meta Platforms,Technology
+Comcast,Telecommunications
+Phillips 66,Energy
+Valero Energy,Energy
+Dell Technologies,Technology
+Target,Retail
+Fannie Mae,Financial Services
+UPS,Logistics
+Lowe's,Retail
+Bank of America,Financial Services
+Johnson & Johnson,Pharmaceutical
+Archer Daniels Midland,Industrial
+FedEx,Logistics
+Humana,Healthcare
+Wells Fargo,Financial Services
+State Farm Insurance,Financial Services
+Pfizer,Healthcare
+Citigroup,Financial Services
+PepsiCo,Consumer Goods
+Intel,Technology
+Procter & Gamble,Consumer Goods
+General Electric,Industrial
+IBM,Technology
+MetLife,Insurance
+Prudential Financial,Insurance
+Albertsons,Retail
+Walt Disney,Entertainment & Media
+Energy Transfer,Energy
+Lockheed Martin,Aerospace & Defence
+Freddie Mac,Financial Services
+Goldman Sachs Group,Financial Services
+Raytheon Technologies,Aerospace & Defence
+HP,Technology
+Boeing,Aerospace & Defence
+Morgan Stanley,Financial Services
+HCA Healthcare,Healthcare
+AbbVie,Pharmaceutical
+Dow,Chemicals
+Tesla,Automotive
+Allstate,Insurance
+AIG,Insurance
+Best Buy,Retail
+Charter Communications,Telecommunications
+Sysco,Foodservice Distribution
+Merck,Pharmaceutical
+New York Life Insurance,Insurance
+Caterpillar,Construction
+Cisco Systems,Technology
+TJX,Retail
+Publix Super Markets,Retail
+ConocoPhillips,Energy
+Liberty Mutual Insurance Group,Insurance
+Progressive,Insurance
+Nationwide,Insurance
+Tyson Foods,Food & Beverages
+Bristol-Myers Squibb,Pharmaceutical
+Nike,Clothing
+Deere,Construction
+American Express,Financial Services
+Abbott Laboratories,Healthcare
+StoneX Group,Financial Services
+Plains GP Holdings,Energy
+Enterprise Products Partners,Energy
+TIAA,Financial Services
+Oracle,Technology
+Thermo Fisher Scientific,Research
+Coca-Cola,Food & Beverages
+General Dynamics,Aerospace & Defence
+CHS,Energy
+USAA,Financial Services
+Northwestern Mutual,Financial Services
+Nucor,Production
+Exelon,Energy
+Massachusetts Mutual Life Insurance,Insurance
+Northrop Grumman,Aerospace & Defence
+3M,Manufacturing
+Travelers,Insurance
+Arrow Electronics,Electronics
+Honeywell International,Conglomerate
+Dollar General,Retail
+Qualcomm,Telecommunications
+Capital One Financial,Financial Services
+TD Synnex,Technology
+Philip Morris International,Consumer Goods
+World Fuel Services,Energy
+Performance Food Group,Foodservice Distribution
+Delta Air Lines,Airline
+American Airlines Group,Airline
+Netflix,Entertainment & Media
+Paramount Global,Entertainment & Media
+US Foods Holding,Foodservice Distribution
+Danaher,Technology
+Jabil,Technology
+Starbucks,Retail
+Mondelez International,Food & Beverages
+Eli Lilly,Pharmaceutical
+Hewlett Packard Enterprise,Technology
+D.R. Horton,Construction
+Molina Healthcare,Insurance
+CBRE Group,Real Estate
+Micron Technology,Semiconductors
+Broadcom,Semiconductors
+Gilead Sciences,Pharmaceutical
+PBF Energy,Energy
+Lennar,Construction
+United Natural Foods,Foodservice Distribution
+NRG Energy,Energy
+Nvidia,Technology
+Occidental Petroleum,Energy
+Salesforce,Technology
+Dollar Tree,Retail
+KKR,Asset Management
+Kraft Heinz,Food & Beverages
+Amgen,Pharmaceutical
+AutoNation,Automotive
+Penske Automotive Group,Automotive
+PayPal Holdings,Financial Services
+Macy's,Retail
+Duke Energy,Energy
+United Airlines Holdings,Airline
+Visa,Financial Services
+Rite Aid,Pharmaceutical
+Cummins,Manufacturing
+U.S. Bancorp,Financial Services
+Paccar,Automotive
+McDonald's,Food & Beverages
+Southern,Utilities
+C.H. Robinson Worldwide,Logistics
+Truist Financial,Financial Services
+Applied Materials,Semiconductors
+Freeport-McMoRan,Mining
+Lithia Motors,Automotive
+Blackstone,Asset Management
+Hartford Financial Services Group,Insurance
+Aflac,Insurance
+Whirlpool,Electronics
+Union Pacific,Transportation
+International Paper,Packaging
+Altria Group,Consumer Goods
+CDW,Technology
+ManpowerGroup,Staffing
+PG&E,Utilities
+Carrier Global,Refrigeration
+Baker Hughes,Energy
+Cleveland-Cliffs,Mining
+United States Steel,Manufacturing
+Becton Dickinson,Electronics
+CarMax,Automotive
+Sherwin-Williams,Consumer Goods
+Builders FirstSource,Construction
+Marsh & McLennan,Insurance
+PNC Financial Services Group,Financial Services
+Lumen Technologies,Telecommunications
+Avnet,Electronics
+Tenet Healthcare,Healthcare
+Kimberly-Clark,Consumer Goods
+Kohl's,Retail
+BlackRock,Asset Management
+Jones Lang LaSalle,Real Estate
+Lear,Automotive
+Lincoln National,Insurance
+Charles Schwab,Financial Services
+Ross Stores,Retail
+Mastercard,Financial Services
+Genuine Parts,Automotive
+WestRock,Packaging
+EOG Resources,Energy
+Cognizant Technology Solutions,Technology
+Moderna,Pharmaceutical
+Steel Dynamics,Manufacturing
+HF Sinclair,Energy
+Texas Instruments,Semiconductors
+Emerson Electric,Electronics
+WESCO International,Electronics
+General Mills,Food & Beverages
+Tenneco,Automotive
+Waste Management,Waste Management
+Viatris,Pharmaceutical
+DISH Network,Telecommunications
+L3Harris Technologies,Aerospace & Defence
+DXC Technology,Technology
+Block,Cryptocurrency
+Goodyear Tire & Rubber,Automotive
+Uber Technologies,Transportation
+Colgate-Palmolive,Consumer Goods
+Stanley Black & Decker,Tools & Hardware
+DuPont,Chemicals
+Stryker,Electronics
+NextEra Energy,Utilities
+Targa Resources,Energy
+Western Digital,Technology
+PPG Industries,Manufacturing
+American Electric Power,Utilities
+Gap,Retail
+BJ's Wholesale Club,Retail
+Reinsurance Group of America,Insurance
+Kinder Morgan,Energy
+Oneok,Energy
+Expeditors Intl. of Washington,Logistics
+Advanced Micro Devices,Semiconductors
+Fiserv,Financial Services
+Estée Lauder,Consumer Goods
+Bank of New York Mellon,Financial Services
+Laboratory Corp. of America,Healthcare
+Regeneron Pharmaceuticals,Pharmaceutical
+Land O'Lakes,Agriculture
+Cheniere Energy,Energy
+Southwest Airlines,Airline
+Adobe,Technology
+Synchrony Financial,Financial Services
+Corteva,Agriculture
+Fidelity National Financial,Financial Services
+DTE Energy,Utilities
+Murphy USA,Retail
+Halliburton,Energy
+Automatic Data Processing,Staffing
+Edison International,Utilities
+BorgWarner,Automotive
+Nordstrom,Retail
+Loews,Conglomerate
+Guardian Life Ins. Co. of America,Insurance
+Pioneer Natural Resources,Energy
+AutoZone,Automotive
+Lam Research,Semiconductors
+American Family Insurance Group,Insurance
+Illinois Tool Works,Manufacturing
+Parker-Hannifin,Manufacturing
+Otis Worldwide,Manufacturing
+Omnicom Group,Technology
+Principal Financial,Financial Services
+Dominion Energy,Energy
+Kellogg,Retail
+Fluor,Construction
+AECOM,Construction
+Reliance Steel & Aluminum,Manufacturing
+Jacobs Engineering Group,Construction
+Corning,Manufacturing
+Farmers Insurance Exchange,Insurance
+Qurate Retail,Retail
+Pacific Life,Insurance
+PulteGroup,Construction
+Fidelity National Information Services,Technology
+IQVIA Holdings,Technology
+Marriott International,Hospitality
+Berry Global Group,Manufacturing
+Ball,Manufacturing
+Group 1 Automotive,Retail
+Leidos Holdings,Aerospace & Defence
+Wayfair,Retail
+Consolidated Edison,Energy
+Ameriprise Financial,Financial Services
+Xcel Energy,Energy
+O'Reilly Automotive,Automotive
+Global Partners,Logistics
+Discover Financial Services,Financial Services
+Rocket Companies,Real Estate
+LKQ,Automotive
+W.W. Grainger,Construction
+Quanta Services,Construction
+Crown Holdings,Packaging
+Fox,Hospitality
+Sempra,Energy
+Markel,Insurance
+Carvana,Transportation
+XPO Logistics,Automotive
+Baxter International,Manufacturing
+Ecolab,Chemicals
+Tractor Supply,Retail
+Andersons,Agriculture
+Keurig Dr Pepper,Food & Beverages
+Universal Health Services,Healthcare
+CSX,Manufacturing
+Henry Schein,Healthcare
+Sonic Automotive,Automotive
+eBay,Retail
+Textron,Aerospace & Defence
+Jones Financial (Edward Jones),Financial Services
+Community Health Systems,Healthcare
+Mosaic,Chemicals
+Thor Industries,Manufacturing
+Dick's Sporting Goods,Retail
+Newmont,Mining
+Devon Energy,Energy
+Warner Bros. Discovery,Entertainment & Media
+J.B. Hunt Transport Services,Logistics
+Alcoa,Construction
+Peter Kiewit Sons',Construction
+Aramark,Foodservice Distribution
+Vistra,Utilities
+State Street,Financial Services
+Unum Group,Insurance
+Alleghany,Insurance
+Boston Scientific,Medical Devices
+Westlake,Chemicals
+Entergy,Energy
+International Flavors & Fragrances,Consumer Goods
+DaVita,Healthcare
+Mutual of Omaha Insurance,Insurance
+Assurant,Insurance
+Liberty Media,Entertainment & Media
+Hormel Foods,Foodservice Distribution
+Icahn Enterprises,Investment
+Republic Services,Waste Management
+Mohawk Industries,Consumer Goods
+Conagra Brands,Foodservice Distribution
+Norfolk Southern,Transportation
+AES,Utilities
+AGCO,Agriculture
+Caesars Entertainment,Hospitality
+Equitable Holdings,Insurance
+Advance Auto Parts,Retail
+Biogen,Pharmaceutical
+Auto-Owners Insurance,Insurance
+Booking Holdings,Travel
+Amphenol,Electronics
+Quest Diagnostics,Healthcare
+FirstEnergy,Utilities
+DCP Midstream,Energy
+Ally Financial,Financial Services
+Delek US Holdings,Energy
+Williams,Energy
+Newell Brands,Consumer Goods
+Eastman Chemical,Chemicals
+Air Products & Chemicals,Chemicals
+Thrivent Financial for Lutherans,Financial Services
+Molson Coors Beverage,Food & Beverages
+Interpublic Group,Advertising
+Weyerhaeuser,Real Estate
+Altice USA,Telecommunications
+Raymond James Financial,Financial Services
+EMCOR Group,Construction
+Eversource Energy,Energy
+Yum China Holdings,Foodservice Distribution
+Asbury Automotive Group,Automotive
+Owens & Minor,Healthcare
+Public Service Enterprise Group,Utilities
+United Rentals,Equipments
+MGM Resorts International,Hospitality
+Ryder System,Logistics
+Intuit,Technology
+Cincinnati Financial,Financial Services
+Erie Insurance Group,Insurance
+Univar Solutions,Chemicals
+Huntington Ingalls Industries,Defense
+W.R. Berkley,Financial Services
+Western & Southern Financial Group,Financial Services
+Insight Enterprises,Technology
+News Corp.,Entertainment & Media
+American Tower,Real Estate
+Old Republic International,Financial Services
+Burlington Stores,Retail
+Avis Budget Group,Transportation
+ODP,Retail
+VF,Retail
+Bed Bath & Beyond,Retail
+Seaboard,Food & Beverages
+First American Financial,Financial Services
+Intercontinental Exchange,Financial Services
+PVH,Retail
+Apollo Global Management,Financial Services
+Jefferies Financial Group,Financial Services
+Hershey,Food & Beverages
+NVR,Construction
+Foot Locker,Retail
+Dana,Automotive
+SpartanNash,Retail
+Olin,Chemicals
+Chewy,Retail
+Jackson Financial,Financial Services
+Activision Blizzard,Entertainment & Media
+Toll Brothers,Construction
+Carlyle Group,Financial Services
+Graybar Electric,Electronics
+Ovintiv,Energy
+UFP Industries,Building Materials
+Ulta Beauty,Retail
+Constellation Brands,Consumer Goods
+Expedia Group,Travel
+CommScope Holding,Telecommunications
+Celanese,Chemicals
+Global Payments,Technology
+Owens Corning,Building Materials
+Campbell Soup,Foodservice Distribution
+Huntsman,Chemicals
+Franklin Resources,Asset Management
+Avery Dennison,Packaging
+Masco,Building Materials
+CenterPoint Energy,Utilities
+Fifth Third Bancorp,Financial Services
+WEC Energy Group,Utilities
+S&P Global,Financial Services
+FM Global,Insurance
+Polaris,Automotive
+Williams-Sonoma,Retail
+Autoliv,Automotive
+Arthur J. Gallagher,Insurance
+Motorola Solutions,Technology
+Zillow Group,Real Estate
+Opendoor Technologies,Real Estate
+J.M. Smucker,Food & Beverages
+Realogy Holdings,Real Estate
+Oshkosh,Automotive
+MasTec,Construction
+GXO Logistics,Logistics
+APA,Energy
+Boise Cascade,Building Materials
+Dover,Equipments
+Genworth Financial,Insurance
+Bath & Body Works,Retail
+Booz Allen Hamilton Holding,Technology
+Coinbase Global,Cryptocurrency
+Zimmer Biomet Holdings,Medical Devices
+Westinghouse Air Brake Technologies,Transportation
+Zoetis,Healthcare
+Packaging Corp. of America,Packaging
+LPL Financial Holdings,Financial Services
+T. Rowe Price,Asset Management
+Fortune Brands Home & Security,Consumer Goods
+Casey's General Stores,Retail
+A-Mark Precious Metals,Metal
+Hess,Energy
+Vertex Pharmaceuticals,Pharmaceutical
+KeyCorp,Financial Services
+Chipotle Mexican Grill,Food & Beverages
+CMS Energy,Utilities
+Arconic,Automotive
+Taylor Morrison Home,Real Estate
+American Financial Group,Financial Services
+UGI,Utilities
+Science Applications International,Technology
+Avantor,Life Sciences
+Hanesbrands,Retail
+Clorox,Consumer Goods
+KBR,Construction
+TravelCenters of America,Travel
+Hertz Global Holdings,Rentals
+Analog Devices,Semiconductors
+Securian Financial Group,Financial Services
+Darden Restaurants,Food Chain
+Graphic Packaging Holding,Packaging
+NCR,Technology
+Brighthouse Financial,Insurance
+PPL,Utilities
+Cintas,Manufacturing
+Xerox Holdings,Technology
+Rockwell Automation,Technology
+Citizens Financial Group,Financial Services
+KLA,Semiconductors
+Camping World Holdings,Retail
+Ingredion,Food & Beverages
+Veritiv,Packaging
+Beacon Roofing Supply,Building Materials
+Diamondback Energy,Energy
+Victoria's Secret,Retail
+Academy Sports and Outdoors,Retail
+Sanmina,Electronics
+ON Semiconductor,Semiconductors
+Commercial Metals,Manufacturing
+EnLink Midstream,Energy
+Southwestern Energy,Energy
+Equinix,Technology
+Dillard's,Retail
+Regions Financial,Financial Services
+Yum Brands,Food Chain
+Landstar System,Logistics
+CF Industries Holdings,Manufacturing
+Northern Trust,Financial Services
+Robert Half International,Staffing
+Compass,Real Estate
+Hasbro,Consumer Goods
+Roper Technologies,Technology
+ARKO,Retail
+Frontier Communications,Telecommunications
+Ameren,Utilities
+O-I Glass,Packaging
+Chemours,Chemicals
+Crown Castle International,Telecommunications
+Agilent Technologies,Life Sciences
+McCormick,Food & Beverages
+Skechers U.S.A.,Retail
+Watsco,Refrigeration
+Live Nation Entertainment,Entertainment & Media
+Lululemon athletica,Retail
+ABM Industries,Facility Management
+Post Holdings,Consumer Goods
+Moody's,Financial Services
+Select Medical Holdings,Healthcare
+Alaska Air Group,Transportation
+Big Lots,Retail
+Amkor Technology,Semiconductors
+Sinclair Broadcast Group,Entertainment & Media
+RPM International,Building Materials
+M&T Bank,Financial Services
+Sprouts Farmers Market,Retail
+Huntington Bancshares,Financial Services
+CACI International,Defense
+JetBlue Airways,Transportation
+SVB Financial Group,Financial Services
+Fastenal,Construction
+GameStop,Retail
+Knight-Swift Transportation Holdings,Logistics
+Airbnb,Hospitality
+Patterson,Medical Devices
+Penn National Gaming,Entertainment & Media
+ServiceNow,Technology
+Nasdaq,Technology
+Brunswick,Marine Products
+Resideo Technologies,Equipments
+Chesapeake Energy,Energy
+Petco Health and Wellness,Medical Devices
+Kemper,Insurance
+Hilton Worldwide Holdings,Hospitality
+Cerner,Healthcare
+Levi Strauss,Retail
+Tapestry,Retail
+NetApp,Technology
+KB Home,Construction
+Continental Resources,Energy
+Intuitive Surgical,Medical Devices
+Under Armour,Retail
+MDU Resources Group,Energy
+Silgan Holdings,Packaging
+Ryerson Holding,Metal
+Ingersoll Rand,Equipments
+Hologic,Medical Diagnosis
+Electronic Arts,Technology
+Zebra Technologies,Technology
+Coty,Retail
+Schneider National,Logistics
+Sonoco Products,Packaging
+Concentrix,Technology
+Evergy,Energy
+Cornerstone Building Brands,Building Materials
+Coca-Cola Consolidated,Food & Beverages
+Greif,Packaging
+Vulcan Materials,Construction
+Ametek,Electronics
+Monster Beverage,Food & Beverages
+Sealed Air,Packaging
+NOV,Energy
+Las Vegas Sands,Casino
+Martin Marietta Materials,Construction
+Marathon Oil,Energy
+Mattel,Retail
+Microchip Technology,Semiconductors
+Harley-Davidson,Automotive
+Telephone & Data Systems,Telecommunications
+ADT,Security Systems
+First Republic Bank,Financial Services
+Warner Music Group,Entertainment & Media
+Pool,Retail
+Old Dominion Freight Line,Transportation
+Fortive,Technology
+MDC Holdings,Construction
+NGL Energy Partners,Energy
+Edwards Lifesciences,Life Sciences
+Hanover Insurance Group,Insurance
+Syneos Health,Research
+Xylem,Water Technology
+Church & Dwight,Packaging
+American Axle & Manufacturing,Automotive
+Meritage Homes,Construction
+Workday,Technology
+Rush Enterprises,Vehicle Service
+Yellow,Transportation
+Encompass Health,Healthcare
+Simon Property Group,Real Estate
+Globe Life,Insurance
+Skyworks Solutions,Semiconductors
+Endeavor Group Holdings,Entertainment & Media
+Twitter,Technology
+Leggett & Platt,Furniture
+Western Union,Financial Services
+PerkinElmer,Equipments
+SS&C Technologies Holdings,Technology
+CUNA Mutual Group,Insurance
+FMC,Chemicals
+Carlisle,Manufacturing
+American Eagle Outfitters,Retail
+Core & Main,Distribution
+Vertiv Holdings,Technology
+Broadridge Financial Solutions,Financial Services
+Ingles Markets,Retail
+TPG,Private Equity
+Insperity,Staffing
+Howmet Aerospace,Aerospace & Defence
+R.R. Donnelley & Sons,Printing & Publishing
+Keysight Technologies,Equipments
+Tempur Sealy International,Retail
+Scotts Miracle-Gro,Equipments
+Equifax,Financial Services
+Kelly Services,Staffing
+NiSource,Utilities
+OneMain Holdings,Financial Services
+DoorDash,Foodservice Distribution
+Avient,Chemicals
+Sanderson Farms,Food Processing
+TransDigm Group,Aerospace & Defence
+Stifel Financial,Financial Services
+JELD-WEN Holding,Building Materials
+Ares Management,Private Equity
+Elanco Animal Health,Animal Health
+Prologis,Real Estate
+Welltower,Real Estate
+Darling Ingredients,Foodservice Distribution
+Juniper Networks,Technology
+Gartner,Research
+Par Pacific Holdings,Energy
+Hubbell,Electronics
+CME Group,Financial Services
+Nexstar Media Group,Entertainment & Media
+Tutor Perini,Construction
+Antero Resources,Energy
+Teledyne Technologies,Aerospace & Defence
+Snap-on,Equipments
+Rent-A-Center,Rentals
+Covetrus,Animal Health
+Crestwood Equity Partners,Energy
+Louisiana-Pacific,Building Materials
+Urban Outfitters,Retail
+Penn Mutual Life Insurance,Insurance
+Amerco,Logistics
+TriNet Group,Staffing
+Sentry Insurance Group,Insurance
+Illumina,Biotechnology
+Iron Mountain,Technology
+LCI Industries,Automotive
+Marvell Technology,Semiconductors
+PennyMac Financial Services,Financial Services
+Digital Realty Trust,Real Estate
+TreeHouse Foods,Food & Beverages
+Ralph Lauren,Retail
+Mattress Firm Group,Retail
+American National Group,Insurance
+Autodesk,Technology
+Domino's Pizza,Food Chain
+ASGN,Staffing
+Flowers Foods,Food & Beverages
+BlueLinx Holdings,Building Materials
+Palo Alto Networks,Network Security
+Maximus,Government Services
+Dentsply Sirona,Medical Devices
+Hub Group,Logistics
+Voya Financial,Investment
+Bread Financial Holdings,Financial Services
+Weis Markets,Retail
+Century Communities,Construction
+Synopsys,Technology
+Brink's,Security Systems
+Lennox International,Refrigeration
+Service Corp. International,Funeral Services
+Conduent,Outsourcing
+Timken,Manufacturing
+Domtar,Packaging
+Bloomin' Brands,Restaurant
+CNO Financial Group,Insurance
+Snap,Technology
+Zoom Video Communications,Technology
+Patrick Industries,Building Materials
+Paychex,Staffing
+Atlas Air Worldwide Holdings,Logistics
+Bright Health Group,Insurance
+Peloton Interactive,Equipments
+Country Financial,Financial Services
+Qorvo,Semiconductors
+Catalent,Pharmaceutical
+Mercury General,Insurance
+AMN Healthcare Services,Staffing
+Tri Pointe Homes,Construction
+ArcBest,Transportation
+Toro,Equipments
+Spirit AeroSystems Holdings,Aerospace & Defence
+Align Technology,Medical Devices
+loanDepot,Financial Services
+APi Group,Construction
+American Water Works,Energy
+Matson,Manufacturing
+Diebold Nixdorf,Technology
+Marriott Vacations Worldwide,Hospitality
+Terex,Construction
+Sally Beauty Holdings,Retail
+Enovis,Technology
+IAC/InterActiveCorp,Technology
+Meritor,Manufacturing
+Ventas,Professional Services
+GoDaddy,Technology
+Regal Rexnord,Construction
+Puget Energy,Energy
+Clean Harbors,Energy
+Pinnacle West Capital,Energy
+eXp World Holdings,Professional Services
+Mueller Industries,Manufacturing
+Wynn Resorts,Hospitality
+RH,Hospitality
+EPAM Systems,Technology
+M/I Homes,Financial Services
+Generac Holdings,Financial Services
+Mettler-Toledo International,Manufacturing
+Abercrombie & Fitch,Retail
+Teradyne,Manufacturing
+American Equity Investment Life Holding,Investment
+Southwest Gas Holdings,Energy
+Pitney Bowes,Technology
+Lamb Weston Holdings,Manufacturing
+Alliant Energy,Energy
+Resolute Forest Products,Manufacturing
+Parsons,Construction
+Trimble,Technology
+OGE Energy,Energy
+Garrett Motion,Manufacturing
+Winnebago Industries,Manufacturing
+Ciena,Professional Services
+PriceSmart,Professional Services
+Advantage Solutions,Professional Services
+H&R Block,Professional Services
+iHeartMedia,Entertainment & Media
+Super Micro Computer,Technology
+Flowserve,Manufacturing
+Charles River Laboratories International,Professional Services
+A.O. Smith,Manufacturing
+New Residential Investment,Investment
+Medical Mutual of Ohio,Insurance
+Granite Construction,Construction
+Valmont Industries,Construction
+Sprague Resources,Energy
+Primoris Services,Construction
+Cboe Global Markets,Financial Services
+Carter's,Retail
+TopBuild,Construction
+SiteOne Landscape Supply,Retail
+Texas Roadhouse,Restaurant
+Akamai Technologies,Technology
+Acuity Brands,Manufacturing
+Brown-Forman,Food & Beverages
+Navient,Financial Services
+Coterra Energy,Energy
+Option Care Health,Healthcare
+Floor & Decor Holdings,Retail
+Public Storage,Real Estate
+Cabot,Chemicals
+Crane Holdings,Manufacturing
+Atmos Energy,Utilities
+Selective Insurance Group,Insurance
+Take-Two Interactive Software,Technology
+Boyd Gaming,Hospitality
+Plexus,Electronics
+ScanSource,Technology
+Franchise Group,Retail
+NLV Financial,Financial Services
+CrossAmerica Partners,Energy
+Mr. Cooper Group,Financial Services
+Fortinet,Technology
+Brinker International,Restaurant
+Albemarle,Chemicals
+Peabody Energy,Energy
+Light & Wonder,Retail
+Evercore,Financial Services
+Stewart Information Services,Real Estate
+Central Garden & Pet,Consumer Goods
+GMS,Construction
+H.B. Fuller,Chemicals
+Middleby,Manufacturing
+Renewable Energy Group,Energy
+MSC Industrial Direct,Indutrial Supply
+Vishay Intertechnology,Electronics
+Applied Industrial Technologies,Indutrial Supply
+Lincoln Electric Holdings,Manufacturing
+First Horizon,Financial Services
+Spirit Airlines,Airline
+AptarGroup,Manufacturing
+Citrix Systems,Technology
+IDEXX Laboratories,Healthcare
+Tetra Tech,Professional Services
+Lyft,Transportation
+Gannett,Entertainment & Media
+ResMed,Medical Devices
+Designer Brands,Retail
+Graham Holdings,Entertainment & Media
+Vroom,Automotive
+Worthington Industries,Metal
+Calumet Specialty Products Partners,Energy
+Xilinx,Semiconductors
+TransUnion,Financial Services
+Travel + Leisure,Hospitality
+Callaway Golf,Retail
+Dycom Industries,Telecommunications
+Columbia Sportswear,Retail
+II-VI,Electronics
+Change Healthcare,Healthcare
+Grocery Outlet Holding,Retail
+AMC Networks,Entertainment & Media
+Hyster-Yale Materials Handling,Equipments
+ChampionX,Energy
+Comfort Systems USA,Professional Services
+EQT,Energy
+Brown & Brown,Insurance
+LGI Homes,Building Materials
+Hyatt Hotels,Hospitality
+Comerica,Financial Services
+Energizer Holdings,Consumer Goods
+Hill-Rom Holdings,Medical Devices
+Rackspace Technology,Technology
+Verisk Analytics,Technology
+Spectrum Brands Holdings,Consumer Goods
+Euronet Worldwide,Financial Services
+TEGNA,Entertainment & Media
+Vontier,Technology
+Cadence Design Systems,Technology
+Incyte,Biotechnology
+Match Group,Professional Services
+Valvoline,Automotive
+EnerSys,Energy
+Avaya Holdings,Technology
+UWM Holdings,Financial Services
+Zions Bancorp.,Financial Services
+Quad/Graphics,Professional Services
+MKS Instruments,Electronics
+Arista Networks,Equipments
+Interactive Brokers Group,Financial Services
+Range Resources,Energy
+Atkore,Electronics
+Cheesecake Factory,Restaurant
+First Solar,Energy
+Bio-Rad Laboratories,Life Sciences
+Cooper Cos.,Medical Devices
+Envista Holdings,Medical Devices
+Alight,Staffing
+Newmark Group,Real Estate
+PC Connection,Technology
+Host Hotels & Resorts,Real Estate
+Boston Properties,Real Estate
+Western Midstream Partners,Energy
+Magellan Midstream Partners,Energy
+Hillenbrand,Equipments
+Donaldson,Pharmaceutical
+Moog,Aerospace & Defence
+Hawaiian Electric Industries,Utilities
+Five Below,Retail
+Twilio,Technology
+Univision Communciations,Entertainment & Media
+Annaly Capital Management,Real Estate
+Fleetcor Technologies,Financial Services
+West Pharmaceutical Services,Pharmaceutical
+Green Plains,Manufacturing
+Cracker Barrel Old Country Store,Restaurant
+Virtu Financial,Financial Services
+Teleflex,Medical Devices
+Zynga,Technology
+Allegheny Technologies,Metal
+AppLovin,Technology
+Waters,Technology
+Mutual of America Life Insurance,Insurance
+Hovnanian Enterprises,Construction
+Amica Mutual Insurance,Insurance
+Caleres,Retail
+FTI Consulting,Professional Services
+Overstock.com,Retail
+Visteon,Automotive
+G-III Apparel Group,Manufacturing
+ITT,Manufacturing
+IDEX,Manufacturing
+Popular,Financial Services
+Roku,Entertainment & Media
+Schnitzer Steel Industries,Metal
+Brookdale Senior Living,Healthcare
+Werner Enterprises,Transportation
+Americold Realty Trust,Logistics
+SkyWest,Airline
+Primerica,Financial Services
+McAfee,Technology
+Nu Skin Enterprises,Retail
+Copart,Professional Services
+PROG Holdings,Retail
+Splunk,Professional Services
+MRC Global,Logistics
+Stericycle,Waste Management
+Maxim Integrated Products,Semiconductors
+Ensign Group,Healthcare
+SM Energy,Energy
+Kaiser Aluminum,Manufacturing
+Federated Mutual Insurance,Insurance
+F5,Security Systems
+Steelcase,Furniture
+Encore Wire,Electronics
+Guess,Retail
+Playtika Holding,Gaming
+Pinterest,Entertainment & Media
+WeWork,Real Estate
+ManTech International,Government Services
+BrightView Holdings,Professional Services
+NortonLifeLock,Security Systems
+Deckers Outdoor,Retail
+Griffon,Indutrial Supply
+AMC Entertainment Holdings,Entertainment & Media
+Curtiss-Wright,Aerospace & Defence
+MYR Group,Construction
+Kontoor Brands,Retail
+Liberty Energy,Energy
+Knights of Columbus,Insurance
+AdaptHealth,Healthcare
+MillerKnoll,Furniture
+Equity Residential,Real Estate
+DexCom,Medical Devices
+Rollins,Professional Services
+Genesco,Retail
+Bruker,Scientific Instruments
+Joann,Retail
+Wolverine World Wide,Retail
+Gray Television,Entertainment & Media
+Affiliated Managers Group,Asset Management
+Summit Materials,Construction
+SLM,Financial Services
+Belden,Technology
+Allison Transmission Holdings,Vehicle Service
+Element Solutions,Chemicals
+Portland General Electric,Utilities
+REV Group,Manufacturing
+Acadia Healthcare,Healthcare
+Alexandria Real Estate Equities,Real Estate
+Nordson,Equipments
+NewMarket,Chemicals
+Ohio National Mutual,Insurance
+Stepan,Chemicals
+Valhi,Waste Management
+Hilton Grand Vacations,Hospitality
+Cooper-Standard Holdings,Automotive
+Etsy,Retail
+Crocs,Retail
+Olympic Steel,Manufacturing
+Signature Bank,Financial Services
+SBA Communications,Telecommunications
+Murphy Oil,Energy
+Entegris,Semiconductors
+AvalonBay Communities,Real Estate
+Saia,Logistics
+E.W. Scripps,Entertainment & Media
+TTEC Holdings,Outsourcing
+Sun Communities,Real Estate
+Alpha Metallurgical Resources,Mining
+GEO Group,Government Services
+Viasat,Technology
+Benchmark Electronics,Manufacturing
+Kar Auction Services,Automotive
+TTM Technologies,Manufacturing
+Kirby,Logistics
+Woodward,Industrial Equipment
+Clear Channel Outdoor Holdings,Advertising
+Spire,Utilities
+Vista Outdoor,Retail
+Surgery Partners,Healthcare
+LHC Group,Healthcare
+Amedisys,Healthcare
+Century Aluminum,Manufacturing
+Arch Resources,Mining
+Aerojet Rocketdyne Holdings,Aerospace & Defence
+Sleep Number,Retail
+HNI,Furniture
+Pure Storage,Technology
+TrueBlue,Staffing
+Party City Holdco,Retail
+Dun & Bradstreet Holdings,Professional Services
+Dropbox,Technology
+New Jersey Resources,Utilities
+Acushnet Holdings,Retail
+Harsco,Professional Services
+Beazer Homes USA,Construction
+Chemed,Healthcare
+Genesis Energy,Utilities
+BWX Technologies,Defense
+Vizio Holding,Manufacturing
+1-800-Flowers.com,Retail
+Cowen,Financial Services
+Ashland Global Holdings,Chemicals
+DocuSign,Technology
